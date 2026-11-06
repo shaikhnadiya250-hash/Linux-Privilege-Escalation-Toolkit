@@ -1,0 +1,8 @@
+FILE PERMISSION SCAN REPORT
+Date: 2026-10-21 08:11:48.031504
+Directory: /home/kali/Linux-Privilege-Escalation-Toolkit/test_data
+Items scanned: 3
+Findings: 2
+
+/home/kali/Linux-Privilege-Escalation-Toolkit/test_data/group_writable.txt | 0664 | GROUP-WRITABLE
+/home/kali/Linux-Privilege-Escalation-Toolkit/test_data/world_writable.txt | 0666 | WORLD-WRITABLE, GROUP-WRITABLE
